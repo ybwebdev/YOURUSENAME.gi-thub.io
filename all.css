@@ -308,7 +308,7 @@ body.dark-mode .nav a.active {
       rgba(5, 22, 38, 0.68) 42%,
       rgba(5, 22, 38, 0.18) 100%
     ),
-    url("images/doctor.jfif");
+    url("doctor.jfif");
 
   background-size: cover;
   background-position: center;
